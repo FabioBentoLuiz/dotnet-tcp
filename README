@@ -1,0 +1,6 @@
+# Run
+
+```
+dotnet run --project server
+dotnet run --project client
+```
